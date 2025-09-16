@@ -7,7 +7,7 @@ tsc -v    doit afficher la version de TypeScript
 
 ### 2. Transpiler et éxecuter
 
-tsc Car.ts main.ts    Transpile les fichiers TS → JS
+tsc Car.ts Race.ts main.ts    Transpile les fichiers TS → JS
 
 node main.js          Exécute le programme
 
